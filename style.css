@@ -585,14 +585,21 @@ section.start-animation .skill-box2{
     background: #007BFF;
 }
 .bar-1{
-    width: 90%;
+    width: 30%;
 }
 .bar-2{
-    width: 80%;
+    width: 60%;
 }
 .bar-3{
     width: 70%;
 }
+.bar-4{
+    width: 80%;
+}
+.bar-5{
+    width: 90%;
+}
+
 /* contact section */
 section form{
     max-width: 70rem;
